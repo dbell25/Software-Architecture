@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="Diagnostic" Text="ProjectPath = ..\BrainstormingLib\BrainstormingLib.csproj" />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2018-04-19T14:16:18" Importance="Medium" Text="Brainstorming's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'Brainstorming::Input Form' -  (Class), 'Brainstorming::Transaction Controller' -  (Class), 'Brainstorming::Product DB' -  (Class), 'Brainstorming::Product' -  (Class), 'Brainstorming::Rebate Controller' -  (Class), 'Brainstorming::Output Form' -  (Class), 'Brainstorming::Return Controller' -  (Class), 'Brainstorming::Transaction DB' -  (Class), 'Brainstorming::Transaction' -  (Class), 'Brainstorming::Generate Checks Controller' -  (Class), 'Brainstorming::Rebate DB' -  (Class) " />
+  <Message Timestamp="2018-04-19T14:16:19" Importance="Medium" Text="'Brainstorming::Input Form' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Input Form.cs" />
+  <Message Timestamp="2018-04-19T14:16:19" Importance="Medium" Text="'Brainstorming::Transaction Controller' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Transaction Controller.cs" />
+  <Message Timestamp="2018-04-19T14:16:19" Importance="Medium" Text="'Brainstorming::Product DB' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Product DB.cs" />
+  <Message Timestamp="2018-04-19T14:16:19" Importance="Medium" Text="'Brainstorming::Product' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Product.cs" />
+  <Message Timestamp="2018-04-19T14:16:20" Importance="Medium" Text="'Brainstorming::Rebate Controller' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Rebate Controller.cs" />
+  <Message Timestamp="2018-04-19T14:16:20" Importance="Medium" Text="'Brainstorming::Output Form' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Output Form.cs" />
+  <Message Timestamp="2018-04-19T14:16:20" Importance="Medium" Text="'Brainstorming::Return Controller' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Return Controller.cs" />
+  <Message Timestamp="2018-04-19T14:16:20" Importance="Medium" Text="'Brainstorming::Transaction DB' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Transaction DB.cs" />
+  <Message Timestamp="2018-04-19T14:16:20" Importance="Medium" Text="'Brainstorming::Transaction' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Transaction.cs" />
+  <Message Timestamp="2018-04-19T14:16:20" Importance="Medium" Text="'Brainstorming::Generate Checks Controller' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Generate Checks Controller.cs" />
+  <Message Timestamp="2018-04-19T14:16:20" Importance="Medium" Text="'Brainstorming::Rebate DB' -  (Class) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Rebate DB.cs" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="Name = EnumTemplate" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="ProjectPath = ..\BrainstormingLib\BrainstormingLib.csproj" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="Brainstorming's Text Template Binding: 'EnumTemplate' will apply EnumTemplate.t4 to: 'Brainstorming::State' -  (Enumeration) " />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="'Brainstorming::State' -  (Enumeration) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\State.cs" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="Name = InterfaceTemplate" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="ProjectPath = ..\BrainstormingLib\BrainstormingLib.csproj" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="Brainstorming's Text Template Binding: 'InterfaceTemplate' will apply InterfaceTemplate.t4 to: 'Brainstorming::ICreateTransaction' -  (Interface), 'Brainstorming::ISubmitRebate' -  (Interface), 'Brainstorming::IReturnItem' -  (Interface), 'Brainstorming::IGenerateRebate' -  (Interface), 'Brainstorming::Observer' -  (Interface) " />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="'Brainstorming::ICreateTransaction' -  (Interface) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\ICreateTransaction.cs" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="'Brainstorming::ISubmitRebate' -  (Interface) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\ISubmitRebate.cs" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="'Brainstorming::IReturnItem' -  (Interface) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\IReturnItem.cs" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="'Brainstorming::IGenerateRebate' -  (Interface) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\IGenerateRebate.cs" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="'Brainstorming::Observer' -  (Interface) : success (file created) - C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-3 Final Design\Architecture\BrainstormingLib\GeneratedCode\Observer.cs" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="ProjectPath = ..\BrainstormingLib\BrainstormingLib.csproj" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Medium" Text="Brainstorming's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'Brainstorming::Input Form' -  (Class), 'Brainstorming::Transaction Controller' -  (Class), 'Brainstorming::Product DB' -  (Class), 'Brainstorming::Product' -  (Class), 'Brainstorming::Rebate Controller' -  (Class), 'Brainstorming::Output Form' -  (Class), 'Brainstorming::Return Controller' -  (Class), 'Brainstorming::Transaction DB' -  (Class), 'Brainstorming::Transaction' -  (Class), 'Brainstorming::Generate Checks Controller' -  (Class), 'Brainstorming::Rebate DB' -  (Class) " />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Input Form' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Transaction Controller' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Product DB' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Product' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Rebate Controller' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Output Form' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Return Controller' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Transaction DB' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:21" Importance="Diagnostic" Text="'Brainstorming::Transaction' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::Generate Checks Controller' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::Rebate DB' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="The selection included 24 elements which were not bound to a template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Dependency): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Dependency): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Dependency): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Dependency): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Dependency): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="Diagnostic" Text="'Brainstorming::' -  (Association): no bound template." />
+  <Message Timestamp="2018-04-19T14:16:22" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

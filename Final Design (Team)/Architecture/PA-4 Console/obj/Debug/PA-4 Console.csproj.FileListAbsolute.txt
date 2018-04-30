@@ -1,0 +1,6 @@
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 Console\bin\Debug\PA-4 Console.exe.config
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 Console\obj\Debug\PA-4 Console.csprojResolveAssemblyReference.cache
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 Console\bin\Debug\PA-4 Console.exe
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 Console\bin\Debug\PA-4 Console.pdb
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 Console\obj\Debug\PA-4 Console.exe
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 Console\obj\Debug\PA-4 Console.pdb

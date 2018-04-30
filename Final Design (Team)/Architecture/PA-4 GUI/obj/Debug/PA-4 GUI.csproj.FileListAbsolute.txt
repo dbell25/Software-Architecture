@@ -1,0 +1,12 @@
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\bin\Debug\PA-4 GUI.exe.config
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\bin\Debug\PA-4 GUI.exe
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\bin\Debug\PA-4 GUI.pdb
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA-4 GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA-4 GUI.csproj.GenerateResource.Cache
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA-4 GUI.exe
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA-4 GUI.pdb
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA_4_GUI.uxCreateRebate.resources
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA_4_GUI.uxCreateTransaction.resources
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA_4_GUI.uxMainMenu.resources
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA_4_GUI.uxProcessReturn.resources
+C:\Users\Ultrabook\Documents\GitHub\BellDaniel-course-work\CIS501S18-T10B\PA-4\Architecture\PA-4 GUI\obj\Debug\PA_4_GUI.uxGenerateChecks.resources
