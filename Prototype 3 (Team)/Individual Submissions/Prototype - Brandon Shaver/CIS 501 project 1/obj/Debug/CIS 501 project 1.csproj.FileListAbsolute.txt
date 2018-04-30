@@ -1,0 +1,20 @@
+C:\Users\bnn678\source\repos\CIS 501 project 1\CIS 501 project 1\bin\Debug\CIS 501 project 1.exe.config
+C:\Users\bnn678\source\repos\CIS 501 project 1\CIS 501 project 1\bin\Debug\CIS 501 project 1.exe
+C:\Users\bnn678\source\repos\CIS 501 project 1\CIS 501 project 1\bin\Debug\CIS 501 project 1.pdb
+C:\Users\bnn678\source\repos\CIS 501 project 1\CIS 501 project 1\obj\Debug\CIS 501 project 1.csprojResolveAssemblyReference.cache
+C:\Users\bnn678\source\repos\CIS 501 project 1\CIS 501 project 1\obj\Debug\CIS 501 project 1.exe
+C:\Users\bnn678\source\repos\CIS 501 project 1\CIS 501 project 1\obj\Debug\CIS 501 project 1.pdb
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 1\CIS 501 project 1\bin\Debug\CIS 501 project 1.exe.config
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 1\CIS 501 project 1\bin\Debug\CIS 501 project 1.exe
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 1\CIS 501 project 1\bin\Debug\CIS 501 project 1.pdb
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 1\CIS 501 project 1\obj\Debug\CIS 501 project 1.csprojResolveAssemblyReference.cache
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 1\CIS 501 project 1\obj\Debug\CIS 501 project 1.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 1\CIS 501 project 1\obj\Debug\CIS 501 project 1.exe
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 1\CIS 501 project 1\obj\Debug\CIS 501 project 1.pdb
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 2\CIS 501 project 1\bin\Debug\CIS 501 project 1.exe.config
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 2\CIS 501 project 1\bin\Debug\CIS 501 project 1.exe
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 2\CIS 501 project 1\bin\Debug\CIS 501 project 1.pdb
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 2\CIS 501 project 1\obj\Debug\CIS 501 project 1.csprojResolveAssemblyReference.cache
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 2\CIS 501 project 1\obj\Debug\CIS 501 project 1.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 2\CIS 501 project 1\obj\Debug\CIS 501 project 1.exe
+C:\Users\Brandon Shaver\Documents\GitHub\ShaverBrandon-course-work\CIS 501 project 2\CIS 501 project 1\obj\Debug\CIS 501 project 1.pdb

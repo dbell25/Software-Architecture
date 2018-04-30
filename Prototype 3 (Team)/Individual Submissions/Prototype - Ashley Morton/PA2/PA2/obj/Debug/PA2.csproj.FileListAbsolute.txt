@@ -1,0 +1,3 @@
+C:\Users\ashley\Desktop\CIS 501\PA2\PA2\bin\Debug\PA2.exe.config
+C:\Users\ashley\Desktop\CIS 501\PA2\PA2\obj\Debug\PA2.csprojResolveAssemblyReference.cache
+C:\Users\ashley\Documents\GitHub\CIS501S18-T10B\PA2_MortonA\PA2\PA2\bin\Debug\PA2.exe.config

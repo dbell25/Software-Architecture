@@ -1,0 +1,5 @@
+C:\Users\bayless1998\Source\Repos\BaylessTanner-course-work2\ConsoleApplication1\ModelingProject2Lib\bin\Debug\ModelingProject2Lib.dll
+C:\Users\bayless1998\Source\Repos\BaylessTanner-course-work2\ConsoleApplication1\ModelingProject2Lib\bin\Debug\ModelingProject2Lib.pdb
+C:\Users\bayless1998\Source\Repos\BaylessTanner-course-work2\ConsoleApplication1\ModelingProject2Lib\obj\Debug\ModelingProject2Lib.csprojResolveAssemblyReference.cache
+C:\Users\bayless1998\Source\Repos\BaylessTanner-course-work2\ConsoleApplication1\ModelingProject2Lib\obj\Debug\ModelingProject2Lib.dll
+C:\Users\bayless1998\Source\Repos\BaylessTanner-course-work2\ConsoleApplication1\ModelingProject2Lib\obj\Debug\ModelingProject2Lib.pdb

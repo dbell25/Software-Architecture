@@ -1,0 +1,12 @@
+C:\Users\ashley\Desktop\CIS 501\MortonA_PA1\MortonA_PA1\bin\Debug\MortonA_PA1.exe.config
+C:\Users\ashley\Desktop\CIS 501\MortonA_PA1\MortonA_PA1\bin\Debug\MortonA_PA1.exe
+C:\Users\ashley\Desktop\CIS 501\MortonA_PA1\MortonA_PA1\bin\Debug\MortonA_PA1.pdb
+C:\Users\ashley\Desktop\CIS 501\MortonA_PA1\MortonA_PA1\obj\Debug\MortonA_PA1.exe
+C:\Users\ashley\Desktop\CIS 501\MortonA_PA1\MortonA_PA1\obj\Debug\MortonA_PA1.pdb
+C:\Users\ashley\Desktop\CIS 501\MortonA_PA1\MortonA_PA1\obj\Debug\MortonA_PA1.csprojResolveAssemblyReference.cache
+C:\Users\ashley\Desktop\CIS 501\Sales501\MortonA_PA1\bin\Debug\MortonA_PA1.exe.config
+C:\Users\ashley\Desktop\CIS 501\Sales501\MortonA_PA1\obj\Debug\MortonA_PA1.exe
+C:\Users\ashley\Desktop\CIS 501\Sales501\MortonA_PA1\obj\Debug\MortonA_PA1.pdb
+C:\Users\ashley\Desktop\CIS 501\Sales501\MortonA_PA1\bin\Debug\MortonA_PA1.exe
+C:\Users\ashley\Desktop\CIS 501\Sales501\MortonA_PA1\bin\Debug\MortonA_PA1.pdb
+C:\Users\ashley\Desktop\CIS 501\Sales501\MortonA_PA1\obj\Debug\MortonA_PA1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="837bd71c-a041-428d-90a3-adb24fe2908c" name="UMLClassDiagram2" linkedPackageId="4791265b-fb1a-487f-8958-a4cbf9065d0d" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <appliedStereotypesInternal>
+    <stereotypeInstance Id="b6ff0689-ee02-4812-8a9f-a2b5dc46e266" name="namespace" profile="CSharpProfile">
+      <elementDefinition Id="2711e6de-d797-4be3-8947-6d3bfb239cc5" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="7ca46ae5-9858-4b0b-ae44-9acdb14227e3">
+          <propertyInstance Id="fe4f95b9-f83b-4203-b13f-8f9c5d6bf73a" name="BaseName">
+            <elementDefinition Id="2eb34101-0f9d-4ece-9c82-355c7266e865" />
+          </propertyInstance>
+          <elementDefinition Id="a539c59d-a35e-4774-977a-32a25dccee62" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="1f47f5c0-c317-42fb-a4ea-b1139b054b3f">
+          <propertyInstance Id="edc20c78-91cd-480b-822d-9e6c9eef1b00" name="ClrAttributes">
+            <elementDefinition Id="a35e3c40-b3e4-4e17-8dfa-4cacc576953f" />
+          </propertyInstance>
+          <elementDefinition Id="d2f91198-7798-4ccc-bb76-f354622a4f62" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="6afa1e99-1b1d-4418-a921-6ac2ca8fa259">
+          <propertyInstance Id="86427354-1110-463d-b395-3a441fb1a914" name="Usings">
+            <elementDefinition Id="54c0e07f-86f0-40c8-81be-4254132c98ee" />
+          </propertyInstance>
+          <elementDefinition Id="78bf93d5-1c10-4944-8608-6fdf63ae0e19" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance Id="df7f4003-3a1d-4f81-a885-9be30d07adc3" name="TextTemplateBindings" profile="TextTemplateBindings">
+      <elementDefinition Id="a8ae7349-c32d-4ffc-9a7e-7248351f82b5" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="c16cfee0-2317-4a0d-be20-44726549f161">
+          <propertyInstance Id="25ce1593-e76f-452e-a7e3-f1f4559018bb" name="Alias" value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate">
+            <elementDefinition Id="4081791f-0166-4078-b516-a147b978cc44" />
+          </propertyInstance>
+          <elementDefinition Id="c6a38371-110b-4a49-a5d8-61fe7c64beec" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="d3e9b4e4-7c56-4d3e-942d-72f1fbb1f075">
+          <propertyInstance Id="4d9b945b-cc6d-4f11-b186-d9a19fb0931b" name="TemplateFilePath" value="ClassTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4">
+            <elementDefinition Id="ee66b7b3-a876-4c38-b827-b0ac611a3c58" />
+          </propertyInstance>
+          <elementDefinition Id="6e550753-0234-433c-91e2-2171a7a8a8c2" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="0f054b12-0b3b-4efb-9689-7443379d1f9b">
+          <propertyInstance Id="2ac8e42a-f0b3-4b13-a6bd-a4fd1de0457b" name="ProjectPath" value="ClassTemplate=..\PA1v2Lib\PA1v2Lib.csproj|EnumTemplate=..\PA1v2Lib\PA1v2Lib.csproj|InterfaceTemplate=..\PA1v2Lib\PA1v2Lib.csproj|StructTemplate=..\PA1v2Lib\PA1v2Lib.csproj">
+            <elementDefinition Id="d4128bee-1eec-47d1-9494-bed7cec73f12" />
+          </propertyInstance>
+          <elementDefinition Id="8ff4f661-7e85-4dea-8e50-da2a8015771f" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="eabcb247-ac40-4b29-874f-9ee46f4c0a21">
+          <propertyInstance Id="b2e82eb7-f952-4de5-9e3d-dab017984fbe" name="TargetDirectory" value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}">
+            <elementDefinition Id="e83353ff-b989-4f1d-9ac5-1ffb583c6758" />
+          </propertyInstance>
+          <elementDefinition Id="ea2850e8-8cef-42c0-adf4-2956b7384cef" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="eae397e5-0ccb-4353-a27f-1ef450fc96a1">
+          <propertyInstance Id="f6f5cb6e-b502-43fa-ab6e-30907fbaffd7" name="TargetName" value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}">
+            <elementDefinition Id="61ca1559-ae6b-4212-bce1-9e2645e0ac02" />
+          </propertyInstance>
+          <elementDefinition Id="b0205e66-1896-448b-9b5b-b1d689d64e1a" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="bc175811-862a-4b36-870f-661bb5671dc3">
+          <propertyInstance Id="3f53b909-89c0-44e9-921f-3956427bcd3d" name="Overwrite" value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True">
+            <elementDefinition Id="d02cd115-55ec-4f4f-8aa9-6f00abf12971" />
+          </propertyInstance>
+          <elementDefinition Id="afdb20dc-2b0a-42e7-af8a-d5979dfb450f" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="98c6d846-cf4d-4fe5-bbe5-0dccfe5eb32f">
+          <propertyInstance Id="1ab80201-6afd-4d2a-ac6d-28d9c3686eac" name="Parameters">
+            <elementDefinition Id="ad383ceb-3e97-4d93-a045-6edd13776483" />
+          </propertyInstance>
+          <elementDefinition Id="c5722ec6-33ed-42d6-81cd-2148562ac7fe" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <Interface Id="79469c2d-13bb-4231-8d64-ec0614daef8e" name="Observer" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="573541f2-1401-40ef-804b-5332bcfe5550" />
+      </Interface>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="250927bf-9a80-464b-9aca-8623ffe9ec58" name="OutputView" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="f763e150-d20f-4bc2-9c72-910830e68e2c" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="f638c753-8808-412c-8fa8-c0fcd2785fea" name="InputView" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="bc2f296e-da9d-410e-ab29-4f157073011e" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <Interface Id="e8ca8a7f-5415-47ee-b17a-2558aaab439b" name="Action Handler" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="79f32941-0810-4793-a88a-22b7c46d9cc2" />
+      </Interface>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="d9ec17b5-3a0a-4396-83a2-509d3d6ca145" name="IOController" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="bf833032-355d-424e-99d8-e24c99cb8937" />
+        <suppliersInternal>
+          <dependency Id="c8e66312-377c-46f9-aab6-b68ec01e5308">
+            <classMoniker Id="21ed1cc0-6cd9-4353-9b6d-c8ec05499e65" LastKnownName="RebateDatabase" />
+            <elementDefinition Id="c11491d9-b991-4e90-839b-86edf21ad992" />
+          </dependency>
+          <dependency Id="20e05833-4cd3-4a2d-9490-ef9d898384a4">
+            <classMoniker Id="417e0f0e-a915-41e3-a558-02136285f7dd" LastKnownName="ReceiptDatabase" />
+            <elementDefinition Id="b8d376b5-e881-4e93-ac60-9a1c3d10ea38" />
+          </dependency>
+        </suppliersInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="417e0f0e-a915-41e3-a558-02136285f7dd" name="ReceiptDatabase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="b7fea1b9-a8fb-4f9d-b49c-83766e9abeea" />
+        <targetEnds>
+          <association Id="137ae952-61a0-41ee-b1b8-88fab04013be" isDerived="false" sourceEndRoleName="ReceiptDatabase" targetEndRoleName="Receipt" isLeaf="false" isAbstract="false">
+            <classMoniker Id="379ad274-64da-4194-8311-1969be735df0" LastKnownName="Receipt" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="523408e0-cba4-4181-b866-5d8498d58e1c" name="ReceiptDatabase" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="94865204-26b6-47f5-ae4d-7b62f364aea9" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="296e97bb-6c3b-4b83-b705-83e7c53162e5" name="Receipt" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="e63921a0-1688-40be-8077-082479436b36" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="7a5861f6-ca69-4f07-a77b-470b873866a4" />
+          </association>
+        </targetEnds>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="379ad274-64da-4194-8311-1969be735df0" name="Receipt" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="78d7c4a3-a77c-426f-aa52-c270f8e91968" />
+        <suppliersInternal>
+          <dependency Id="ecafdd58-8edc-4dc4-b4dc-9f7ca9c77fbe">
+            <classMoniker Id="0a4e018a-ea1a-452c-a9d6-14fe49cc6f0c" LastKnownName="Clock" />
+            <elementDefinition Id="61283211-8bb7-47df-a289-a0c2ffa75ee2" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association Id="0e5a095b-eef2-4b0a-86e7-57064047488a" isDerived="false" sourceEndRoleName="Receipt" targetEndRoleName="ItemDatabase" isLeaf="false" isAbstract="false">
+            <classMoniker Id="91603d40-718a-4bdf-bbd8-ae2887c6a1ee" LastKnownName="ItemDatabase" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e9178b8b-2da1-49de-ae14-867c8c05b353" name="Receipt" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="b4e59484-1190-4257-9686-afae34493431" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="b8d1a552-2e4e-4c43-8130-c641296cb63e" name="ItemDatabase" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="760251e4-13ca-4da1-acf7-db8a20480271" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="a8f8bea1-ef89-49f1-9be4-1e00b7565272" />
+          </association>
+        </targetEnds>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="91603d40-718a-4bdf-bbd8-ae2887c6a1ee" name="ItemDatabase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="0ebcabd3-3503-41a5-80c9-b0b5d9404650" />
+        <targetEnds>
+          <association Id="1c68a872-7b46-422b-a106-39bf6a75de21" isDerived="false" sourceEndRoleName="ItemDatabase" targetEndRoleName="Item" isLeaf="false" isAbstract="false">
+            <classMoniker Id="d02d6d09-dea2-4c15-8bd9-16cfbeaab453" LastKnownName="Item" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="a56f6a98-6314-404c-81a5-15bbf4a52f4c" name="ItemDatabase" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="3a488d7a-6147-4e6a-9a83-24e72db2ee95" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="7643dfb6-29e0-4bd0-b39c-1f7186fde4cb" name="Item" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <lowerValueInternal>
+                    <literalString Id="33d980f9-edbc-42da-8add-8fa1b747c0e5" name="Lower" value="8">
+                      <elementDefinition Id="f564d0dd-45fe-4d89-891a-0afc707afaa0" />
+                    </literalString>
+                  </lowerValueInternal>
+                  <upperValueInternal>
+                    <literalString Id="af9f5230-276c-4c2e-9c5e-4ada48f7593b" name="Upper" value="8">
+                      <elementDefinition Id="67c9f5ab-54b2-4657-9958-a7c2204326ef" />
+                    </literalString>
+                  </upperValueInternal>
+                  <elementDefinition Id="6fba4c96-2f5c-4f82-8d13-1af09eba60c1" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="c06621b4-8734-4dca-8ffb-a408538b52d9" />
+          </association>
+        </targetEnds>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="d02d6d09-dea2-4c15-8bd9-16cfbeaab453" name="Item" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="a6cea96d-c264-4a21-a8b1-fa8757e5f251" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="fe4aae9b-ac13-4ff6-9282-0a2066fb6c6b" name="Rebate" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="b9780b24-cd44-442b-a705-c7f37e088159" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="21ed1cc0-6cd9-4353-9b6d-c8ec05499e65" name="RebateDatabase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="789ce659-4bf9-449e-a211-518c75e98c4d" />
+        <suppliersInternal>
+          <dependency Id="49d020ac-788e-40f2-b260-ef3dd43e5733">
+            <classMoniker Id="417e0f0e-a915-41e3-a558-02136285f7dd" LastKnownName="ReceiptDatabase" />
+            <elementDefinition Id="3ab26a3e-cabe-4b64-83c2-22109f5f6a75" />
+          </dependency>
+          <dependency Id="af54659b-3634-4ff9-8dc6-229565f1cd0d">
+            <classMoniker Id="0a4e018a-ea1a-452c-a9d6-14fe49cc6f0c" LastKnownName="Clock" />
+            <elementDefinition Id="f0145423-9132-4501-9c73-e6a4fa426083" />
+          </dependency>
+        </suppliersInternal>
+        <targetEnds>
+          <association Id="a56adb6b-a809-4e45-a7e5-df41e7190c62" isDerived="false" sourceEndRoleName="RebateDatabase" targetEndRoleName="Rebate" isLeaf="false" isAbstract="false">
+            <classMoniker Id="fe4aae9b-ac13-4ff6-9282-0a2066fb6c6b" LastKnownName="Rebate" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="31b82302-3e3d-4fc4-8ab4-0300944f978e" name="RebateDatabase" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="Composite" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="3d8db739-9a73-4dfa-bea5-d59f17c6fc91" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="6fc2ba5b-011e-43ba-b842-70d51088826c" name="Rebate" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="true">
+                  <elementDefinition Id="5c14db92-e119-4819-8649-4876788c6d2c" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="7c16ea71-a11c-4e58-b011-e866a9ecfd4f" />
+          </association>
+        </targetEnds>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="0a4e018a-ea1a-452c-a9d6-14fe49cc6f0c" name="Clock" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="d0a75902-ee66-4b22-ba5f-33d9c2fa0bb2" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="823e40fc-0886-4918-9010-ad98016ef8fd" name="UserInterface" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="1dd062d4-a459-45f1-a53e-1ad0befc4261" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="4791265b-fb1a-487f-8958-a4cbf9065d0d" name="PA1v2">
+    <elementDefinition Id="b1cbffbd-8080-4557-b6e4-ca5a3a5091d6" />
+    <profileInstances>
+      <packageHasProfileInstances Id="49a86083-fdb9-4ddf-b7c1-789c8751f133">
+        <profileInstance Id="5461e3c7-0b76-440e-9e50-25a3e019fe5a" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="ca96bc98-ba34-4c87-b863-6294994d062e">
+        <profileInstance Id="20737880-e2aa-4ec5-8425-d60c0ef3e153" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="24775228-ef13-4564-ba71-2ccf5c3b918e">
+        <profileInstance Id="c48dbb0c-cd48-4030-abbf-c6322e1f1ca1" name="CSharpProfile">
+          <elementDefinition Id="0428948b-c7e3-44a2-a7b5-d16517c6e569" />
+        </profileInstance>
+        <elementDefinition Id="ad92bc40-dc22-40e0-98c6-9dd6489f6bca" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="04d276fc-7d7e-4221-bade-a7fa11e23290">
+        <profileInstance Id="ecf38bab-7a1e-4e3c-b58a-52c0e5c48e9b" name="TextTemplateBindings">
+          <elementDefinition Id="3dd5006a-53f6-48d4-a42e-2ec5512b0a4f" />
+        </profileInstance>
+        <elementDefinition Id="b0af1ff8-dae5-4930-a28a-2396a2afd05c" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</logicalClassDesignerModel>

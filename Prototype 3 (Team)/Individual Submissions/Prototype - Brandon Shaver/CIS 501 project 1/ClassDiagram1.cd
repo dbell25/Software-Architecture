@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CIS_501_project_1.Transaction">
+    <Position X="8.25" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAgBAAgABAAAAFAAAAAAAAAAA=</HashCode>
+      <FileName>Transaction.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Date" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="ItemList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CIS_501_project_1.Database">
+    <Position X="0.5" Y="0.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAJAAAAAAAQAAIAAgCAABEAAECIQAAhAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="dictionary_of_items" />
+      <Field Name="list_of_transactions" />
+      <Field Name="list_of_rebates" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CIS_501_project_1.InputOutputManager">
+    <Position X="13.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACEAAAAAAAACAQATAAAAAgABAAAAAACAAAAAA=</HashCode>
+      <FileName>InputOutputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIS_501_project_1.Program">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CIS_501_project_1.Program.ProgramState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CIS_501_project_1.Item">
+    <Position X="1.75" Y="4.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAEAAAAABQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CIS_501_project_1.Date">
+    <Position X="7.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

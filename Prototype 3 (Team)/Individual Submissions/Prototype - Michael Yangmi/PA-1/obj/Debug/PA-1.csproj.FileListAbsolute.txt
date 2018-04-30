@@ -1,0 +1,6 @@
+C:\Users\micha\Source\Repos\YangmiMichael-course-work\PA-1\PA-1\bin\Debug\PA-1.exe.config
+C:\Users\micha\Source\Repos\YangmiMichael-course-work\PA-1\PA-1\obj\Debug\PA-1.csprojResolveAssemblyReference.cache
+C:\Users\micha\Source\Repos\YangmiMichael-course-work\PA-1\PA-1\bin\Debug\PA-1.exe
+C:\Users\micha\Source\Repos\YangmiMichael-course-work\PA-1\PA-1\bin\Debug\PA-1.pdb
+C:\Users\micha\Source\Repos\YangmiMichael-course-work\PA-1\PA-1\obj\Debug\PA-1.exe
+C:\Users\micha\Source\Repos\YangmiMichael-course-work\PA-1\PA-1\obj\Debug\PA-1.pdb
